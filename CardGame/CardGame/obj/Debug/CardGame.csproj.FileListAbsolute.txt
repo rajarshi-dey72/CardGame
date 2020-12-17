@@ -1,0 +1,14 @@
+C:\Users\rajar\source\repos\CardGame\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\rajar\source\repos\CardGame\CardGame\bin\Debug\CardGame.exe
+C:\Users\rajar\source\repos\CardGame\CardGame\bin\Debug\CardGame.pdb
+C:\Users\rajar\source\repos\CardGame\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\rajar\source\repos\CardGame\CardGame\obj\Debug\CardGame.exe
+C:\Users\rajar\source\repos\CardGame\CardGame\obj\Debug\CardGame.pdb
+C:\Users\rajar\source\repos\CardGame\CardGame\obj\Debug\CardGame.csprojAssemblyReference.cache
+C:\Users\rajar\Desktop\CardGame\CardGame\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\rajar\Desktop\CardGame\CardGame\CardGame\bin\Debug\CardGame.exe
+C:\Users\rajar\Desktop\CardGame\CardGame\CardGame\bin\Debug\CardGame.pdb
+C:\Users\rajar\Desktop\CardGame\CardGame\CardGame\obj\Debug\CardGame.csprojAssemblyReference.cache
+C:\Users\rajar\Desktop\CardGame\CardGame\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\rajar\Desktop\CardGame\CardGame\CardGame\obj\Debug\CardGame.exe
+C:\Users\rajar\Desktop\CardGame\CardGame\CardGame\obj\Debug\CardGame.pdb

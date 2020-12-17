@@ -1,0 +1,7 @@
+C:\Users\rajar\source\repos\CardGame\CardGame\bin\Release\CardGame.exe.config
+C:\Users\rajar\source\repos\CardGame\CardGame\bin\Release\CardGame.exe
+C:\Users\rajar\source\repos\CardGame\CardGame\bin\Release\CardGame.pdb
+C:\Users\rajar\source\repos\CardGame\CardGame\obj\Release\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\rajar\source\repos\CardGame\CardGame\obj\Release\CardGame.exe
+C:\Users\rajar\source\repos\CardGame\CardGame\obj\Release\CardGame.pdb
+C:\Users\rajar\source\repos\CardGame\CardGame\obj\Release\CardGame.csprojAssemblyReference.cache
